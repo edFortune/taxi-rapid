@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "248275616120",
+    "firebase_url": "https://taxirapid-69fd0.firebaseio.com",
+    "project_id": "taxirapid-69fd0",
+    "storage_bucket": "taxirapid-69fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248275616120:android:c69cb7a8fa0e82b8",
+        "android_client_info": {
+          "package_name": "com.example.taxirapid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248275616120-0k9a8s9m7k8r6frmpm44gk4mo6dn70id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxirapid",
+            "certificate_hash": "7109b2deb3dedf250672771867449a44991fe921"
+          }
+        },
+        {
+          "client_id": "248275616120-ji4pe4jhehoodmdjmuh3m5d444nnell3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "248275616120-ji4pe4jhehoodmdjmuh3m5d444nnell3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs6HcbeecAAIFgKIYtLR_5HH61FVCzH18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248275616120-ji4pe4jhehoodmdjmuh3m5d444nnell3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
